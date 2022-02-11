@@ -15,20 +15,27 @@ The main requirements for the storage is first we have to add the student detail
 ## Swot Analysis
 
 . Strengths
+
 . The system can provide data in sufficient time.It is suitable for preparing immediate reports.
 
 . Weakness
+
 . Adaption and development are very expensive and time consuming.
 
 . Opportunities
+
 . It can play a controlling role regarding data purity of source systems.
 
 ## 4W'S and 1-H
 
 . What- is the technology used.
+
 . Why- the student record system in digital manner.
+
 .Where- the storage will be stored.
+
 .When- will we access the data.
+
 .How- the data will we find. 
 
 
