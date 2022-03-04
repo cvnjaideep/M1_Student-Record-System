@@ -6,3 +6,9 @@
 
 [![Unit Testing -Unity](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/unity.yml/badge.svg)](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/unity.yml)
 
+
+
+
+
+
+[![Dynamiccheck](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/Dynamic-check.yml)
