@@ -16,9 +16,9 @@
 
 
 # Codiga
+![svg](https://user-images.githubusercontent.com/98863647/156732936-42e62479-aac9-41e5-937d-143fc15f95b9.svg)
 
-https://api.codiga.io/project/31135/score/svg
-https://api.codiga.io/project/31135/status/svg
+
 
 # Static check
 
