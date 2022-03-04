@@ -14,6 +14,12 @@
 
 [![Unit Testing -Unity](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/unity.yml/badge.svg)](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/unity.yml)
 
+
+# Codiga
+
+https://api.codiga.io/project/31135/score/svg
+https://api.codiga.io/project/31135/status/svg
+
 # Static check
 
 [![.github/workflows/Static-check.yml](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/Static-check.yml/badge.svg)](https://github.com/cvnjaideep/M1_Student-Record-System/actions/workflows/Static-check.yml)
